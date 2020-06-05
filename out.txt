@@ -1,0 +1,5 @@
+Number of hits: 996093
+Number of Misses: 3907
+Hit rate: 0.996093
+Miss rate: 0.003907
+
